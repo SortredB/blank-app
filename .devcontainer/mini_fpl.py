@@ -51,6 +51,7 @@ ASSIST_POINTS = 3
 APPEAR_LT60 = 1
 APPEAR_GE60 = 2
 CS_POINTS = {"GK": 4, "DEF": 4, "MID": 1, "FWD": 0}  # FPL gives MID +1, FWD 0
+$ streamlit run streamlit_app.py
 GC_MINUS_PER_2 = {"GK": -1, "DEF": -1, "MID": 0, "FWD": 0}
 SAVE_PER_3 = 1
 PEN_SAVE = 5
